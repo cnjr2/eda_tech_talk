@@ -28,6 +28,6 @@ Also install the Jupyter notebook (formerly ipython notebook) with:
 
 You should now be all setup.
 
-## Download the workshow material
+## Download the workshop material
 
 Download the code and data from github (here). Press the `Clone or Download` button and save as a zip file.
