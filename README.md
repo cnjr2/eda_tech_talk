@@ -1,10 +1,14 @@
-# Installation Instructions
+# Free Tech Lab: Exploratory data analysis & interactive figures with Plotly
 
-## Install Python
+The tutorial was written for the [CCA Meetup Group](http://www.meetup.com/Cambridge-Coding-Academy/events/230718909/).
+
+## Installation Instructions
+
+### Install Python
 
 Install Anaconda (Python 2.7) from:  [https://www.continuum.io/downloads](https://www.continuum.io/downloads)
 
-## Install Packages
+### Install Packages
 
 Installing required packages using "pip"
 
@@ -28,6 +32,6 @@ Also install the Jupyter notebook (formerly ipython notebook) with:
 
 You should now be all setup.
 
-## Download the workshop material
+### Download the workshop material
 
 Download the code and data from github (here). Press the `Clone or Download` button and save as a zip file.
